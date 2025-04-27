@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Click here to view the app on Streamlit](https://app-cancer-prediction-ml.streamlit.app/)
+
 <!--
 **rashmika-fdo/rashmika-fdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
