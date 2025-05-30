@@ -24,7 +24,7 @@
 
 🔗 Let's connect:
 - [LinkedIn](linkedin.com/in/rashmikafernando)  
-- [Portfolio](https://rashmika-fdo.github.io/)  
+- [Check out my Portfolio](https://rashmika-fdo.github.io/)  
 - 📬 Email: rashmikafdo20@gmail.com  
 
 💬 Always open to collaboration and new opportunities to grow in the data-driven world!
